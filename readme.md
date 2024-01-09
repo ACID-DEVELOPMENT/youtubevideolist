@@ -1,4 +1,0 @@
-[
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-]
